@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devlin-Codes
+- 👋 Hi, I’m Devlin!
 - 👀 I've moved over to [@DevlinRocha](https://github.com/DevlinRocha), you can find all of my content over there!
 
 <!---
